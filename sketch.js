@@ -19,7 +19,7 @@ function setup() {
   
   bg = createSprite(width/1-180,height/2, width, height)
   bg.addImage(bgi)
-  bg.scale = 1.15
+  bg.scale = 1.8
   bg.velocityX = -2
 
 tank1 = createSprite(width/2-550, height-50, 50, 50);
